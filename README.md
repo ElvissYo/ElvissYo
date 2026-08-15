@@ -1,7 +1,5 @@
 # Hi, I'm Yose Elvis Saputra 👋
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400">
-
 Information Systems student with a Data Science concentration at President University, currently in my 6th semester. I focus on turning data into decisions, from EDA and predictive modeling to building end to end systems around them.
 
 ## About Me
@@ -29,6 +27,8 @@ Other explorations include a Home Credit Indonesia credit default prediction pro
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ElvissYo/ElvissYo/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ElvissYo/ElvissYo/output/github-contribution-grid-snake.svg">
 </picture>
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmx6eDc1Y3R4b3Ayb2d0bmlramQ3dWdnbnFieDE2Ym1uM3I1cGRjeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ule4vhcY1xEKQ/giphy.gif" width="400">
 
 ## Tools & Technologies
 
