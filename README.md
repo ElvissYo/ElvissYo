@@ -1,5 +1,7 @@
 # Hi, I'm Yose Elvis Saputra 👋
 
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400">
+
 Information Systems student with a Data Science concentration at President University, currently in my 6th semester. I focus on turning data into decisions, from EDA and predictive modeling to building end to end systems around them.
 
 ## About Me
