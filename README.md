@@ -18,7 +18,7 @@ Information Systems student with a Data Science concentration at President Unive
 
 **RetailPilot** — AI-powered retail management system with a normalized five-table PostgreSQL schema, built on React, Vite, Tailwind, and Supabase.
 
-Other explorations include a Home Credit Indonesia credit default prediction project (CatBoost, LightGBM across 8 relational tables), an IHSG forecasting dashboard, and a FIFA World Cup match prediction model using CNN-LSTM and ELO-based features.
+Other explorations include a Home Credit Indonesia credit default prediction project (CatBoost, LightGBM across 8 relational tables) and IHSG forecasting dashboard
 
 ## Contribution Snake 🐍
 
